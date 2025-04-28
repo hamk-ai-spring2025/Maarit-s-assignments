@@ -71,7 +71,7 @@ if not description.strip():
 try:
     dalle_response = openai.Image.create(
         prompt=description,
-        model="dall-e",  # Specify the DALL-E model
+        model="dall-e-2",  # Specify the DALL-E model
         n=1,  # Number of images to generate
         size="1024x1024"  # Set the desired image size
     )
