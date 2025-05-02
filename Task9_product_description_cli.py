@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate product descriptions and marketing slogans from 1‒N images via **Google Gemini Pro Vision**.
+"""Generate product descriptions and marketing slogans from 1‒N images via **Google Gemini**.
 
 Usage
 ~~~~~
